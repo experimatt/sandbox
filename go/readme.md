@@ -33,6 +33,10 @@ echo $PATH
 ```
 
 ## Hello World (optional)
+Note that the code snippets below no longer match the instructions linked below. Go no longer recommends making a go folder and setting a `GOPATH`, as far as I can tell (as of 12/2022).
+
+----
+
 To write your first Go program, follow the instructions at either of these links. **Your first program** seems to be more realistic and comprehensive.
 1. [Your first program](https://golang.org/doc/code.html#Command)
 2. [Test your installation](https://golang.org/doc/install#testing)
